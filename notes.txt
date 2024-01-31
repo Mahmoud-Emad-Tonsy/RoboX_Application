@@ -1,0 +1,1 @@
+1- don't open bluetooth before  open app if you used app close and open bluetooth in you device
